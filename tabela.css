@@ -97,7 +97,7 @@ body {
     position: relative;
     background: white;
     border-radius: 8px;
-    box-shadow: 0 4px 20px rgba(52, 152, 219, 0.15);
+    box-shadow: 0 4px 20px rgba(0, 162, 255, 0.438);
     overflow: hidden;
 }
 
@@ -240,7 +240,7 @@ body {
 
 /* Efeito Hover Suave */
 .tabela-precos tbody tr:hover td {
-    background-color: #f5f9fd;
+    background-color: #c5edfa;
 }
 
 .tabela-precos tbody tr:hover .feature-name {
